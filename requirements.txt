@@ -34,3 +34,5 @@ einops
 # Optional: required only for infer_onnx.py ONNX Runtime inference
 # onnxruntime      (CPU)
 # onnxruntime-gpu  (GPU / CUDA)
+# Optional: required only for benchmark_ckpt_vs_onnx.py memory measurement
+# psutil
