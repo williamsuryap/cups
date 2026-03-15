@@ -27,3 +27,7 @@ colored
 faster-coco-eval
 open3d
 einops
+# Optional: required only for convert.py ONNX export
+# onnx>=1.14.0
+# Optional: required only for convert.py ONNX→TensorFlow conversion
+# onnx2tf
