@@ -31,3 +31,6 @@ einops
 # onnx>=1.14.0
 # Optional: required only for convert.py ONNX→TensorFlow conversion
 # onnx2tf
+# Optional: required only for infer_onnx.py ONNX Runtime inference
+# onnxruntime      (CPU)
+# onnxruntime-gpu  (GPU / CUDA)
